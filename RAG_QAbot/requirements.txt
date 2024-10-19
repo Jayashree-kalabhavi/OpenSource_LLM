@@ -1,0 +1,9 @@
+ipykernel
+langchain_community
+langchain
+streamlit
+langchain-chroma
+langchain-core
+python-dotenv
+langchain_ollama
+pypdf
